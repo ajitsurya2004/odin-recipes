@@ -1,2 +1,3 @@
 # odin-recipes
-1st project
+Welcome to the odin-recipes
+This is my firs ever project
